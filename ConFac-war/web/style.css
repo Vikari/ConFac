@@ -1,0 +1,84 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 3.5.2017, 12:24:25
+    Author     : jukka
+*/
+
+body {
+    background-color:#ff72f5;
+    color:#353833;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:76%;
+    margin:30px;
+}
+
+h1 {
+    color:#51dbd6;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:300%;
+}
+
+p {
+    font:20px Georgia, Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-weight:normal;
+    color:#003300;
+    text-align:left;
+    margin: 0 13px 10px 0px;
+    padding:0;
+    background:none;
+}
+
+input[type=submit] {
+    font-size: 150%;
+    background-color: #ff7184;
+    border: none;
+    color: #f4e35d;
+    padding: 10px 22px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+input[type=submit]:hover {
+    font-size: 150%;
+    background-color: #ff7523;
+    border: none;
+    color: #f4e766;
+    padding: 10px 22px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+    
+input[type=radio] {
+    
+    font-size: 250%;
+    background-color: #ff7184;
+    border: none;
+    color: #f4e35d;
+    padding: 10px 22px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+a {
+    font-size: 150%;
+    color : #a1f466; 
+    text-decoration : none; 
+} 
+
+a:visited {
+    font-size: 150%;
+    color : #a9f970; 
+    text-decoration : none;
+} 
+
+a:hover {
+    font-size: 150%;
+    color : #333333; 
+    text-decoration : underline; 
+} 
